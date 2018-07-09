@@ -1,1 +1,1 @@
-# ECE592-VINS-Slam
+# ECE592-Slam
